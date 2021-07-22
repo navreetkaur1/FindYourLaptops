@@ -1,0 +1,28 @@
+.mainFxmlClass {
+-fx-background-color: #ccccff;
+    -fx-border-radius: 20;
+    -fx-background-radius: 20;
+    -fx-padding: 5;
+}
+.default-color0.chart-bar{
+-fx-bar-fill:black;
+}
+.label{
+-fx-font: 16px Arial;
+}
+.headerLabel1{
+-fx-font: 36px Arial;
+-fx-text-fill: linear-gradient(from 0% 0% to 100% 200%, repeat, blue 0%, black 50%);
+}
+.sides{
+-fx-border-radius: 10 10 10 10;
+-fx-background-radius: 10 10 10 10;
+}
+.custom-button {
+    -fx-font: 12px "Serif";
+    -fx-padding: 10;
+    -fx-background-color: #CCFF99;
+}
+.custom-button:hover {
+    -fx-background-color: #FAEBD7;
+}
